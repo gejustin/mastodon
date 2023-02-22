@@ -1,13 +1,7 @@
 version = 1
 
 [[analyzers]]
-name = "sql"
-
-[[analyzers]]
 name = "shell"
-
-[[analyzers]]
-name = "ruby"
 
 [[analyzers]]
 name = "javascript"
@@ -16,7 +10,4 @@ name = "javascript"
   plugins = ["react"]
 
 [[analyzers]]
-name = "docker"
-
-[[analyzers]]
-name = "secrets"
+name = "ruby"
